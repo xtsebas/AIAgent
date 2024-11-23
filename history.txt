@@ -1,0 +1,14 @@
+2024-11-23 12:02:50.214594: Que jugador gano mas partidos en el torneo-->Ahmad won the most matches in the tournament.
+2024-11-23 12:03:14.668451: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.0.
+2024-11-23 12:03:53.708494: Que jugador perdio mas partidos en el torneo-->The player who lost the most matches in the tournament is Gyro.
+2024-11-23 12:11:01.665270: que partido tuvo mas goles-->The match with the most goals scored involved the teams Karmine Corp and Furia Esports. Karmine Corp, playing in blue, won the match with a score of 4, while Furia Esports, playing in orange, lost with a score of 3. The match was intense with a total of 49 demos exchanged between the two teams.
+2024-11-23 12:11:31.717411: Genera un patrón piramidal de asteriscos de tamaño 5-->```
+    *
+   ***
+  *****
+ *******
+*********
+```
+2024-11-23 12:12:17.297557: que equipo gano mas partidos-->El equipo que ha ganado más partidos es G2 Esports.
+2024-11-23 12:12:48.612737: que equipo jugo mas partidos-->G2 ESPORTS jugó la mayor cantidad de partidos.
+2024-11-23 12:13:11.501691: La división de los números 4000 sobre 40-->La división de 4000 entre 40 es 100.0.
